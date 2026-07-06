@@ -1,0 +1,13 @@
+{
+  "name": "Manta-on-TOP",
+  "version": "1.0.0",
+  "description": "Never-mess-with-MANTA",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
